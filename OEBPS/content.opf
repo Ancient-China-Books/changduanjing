@@ -1,23 +1,28 @@
 <?xml version="1.0"  encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uxosaznxpA5dlgK27L4AiA5">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <dc:title>长短经</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="赵蕤">赵蕤</dc:creator>
-    <dc:date>2017-01-01T16:00:00+00:00</dc:date>
+    <dc:title>長短經</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="趙蕤">趙蕤</dc:creator>
+    <dc:date>2017-08-14T16:00:00+00:00</dc:date>
     <dc:identifier id="uxosaznxpA5dlgK27L4AiA5" opf:scheme="uuid">uxosaznxpA5dlgK27L4AiA5</dc:identifier>
-    <dc:publisher>江西美术出版社</dc:publisher>
+    <dc:publisher>中华书局</dc:publisher>
     <dc:description>&lt;div&gt;
-&lt;p&gt;《长短经》，又称《反经》，《四库全书总目提要》中称“刘向序《战国策》，称或题日‘长短’。此书辨析事势，其言盖出于纵横家，故以‘长短’为名”。全书今存九卷六十四篇（赵蕤自序中称十卷六十三篇，今佚其末《阴谋》一卷），主要谈论帝王治世之道，其中心思想是讨论如何巩固统治根基，改革时弊，解决社会政治中所存在的一系列现实问题。因为它主要讲帝王权谋，有资于治国之道，所以有人就把它与司马光的《资治通鉴》相提并论，称之为“小《资治通鉴》”。是为唐朝赵蕤编撰的一部儒家、道家、法家、兵家、杂家和阴阳家思想之大成的智谋奇书。它以谋略为经，历史为纬，交错纵横，蔚然成章。它集历史学、政治学、谋略学、人才学、社会学为一体，以丰富的历史案例和振聋发聩的理论，向读者呈现了一套可读性很强的鸿篇巨制。书中充满了富于洞察力且实用的建议，深入浅出，言简意赅，发人深省。&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;《长短经》又称《反经》，唐代赵蕤撰，今存9卷64篇。该书汇聚诸子百家学说，撮叙历代更迭史实，论述王霸机权正变长短之术，涉及知人、论士、政体、君德、臣行、图霸、兵谋等，具有极高的学术研究价值和史料参考价值。此次整理，所据底本为南宋初年杭州净戒院刊本，以《读画斋丛书》本为校本，以《四库全书》本为参校本。全书全式标点，有校有注，收入《新编诸子集成续编》。&lt;/p&gt;
+&lt;p&gt;基於維基文庫重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
-    <dc:language>en</dc:language>
-    <dc:identifier opf:scheme="calibre">e1868deb-b5c6-487a-90f3-b0dc499b6d9e</dc:identifier>
-    <dc:identifier opf:scheme="AMAZON">B0888C888N</dc:identifier>
-    <meta content="1.0" name="calibre:series_index"/>
+    <dc:subject>國學，古籍，反經，子部</dc:subject>
+    <dc:language>zh</dc:language>
+    <dc:identifier opf:scheme="calibre">9fdc2a84-c97a-40f7-b6b4-6d069f2603e7</dc:identifier>
+    <dc:identifier opf:scheme="AMAZON">B072PZTKX4</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9787101125313</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">K2SJtQEACAAJ</dc:identifier>
+    <meta content="新编诸子集成续编" name="calibre:series"/>
     <meta content="10.0" name="calibre:rating"/>
     <meta content="1.9.10" name="Sigil version"/>
-    <meta name="calibre:title_sort" content="长短经"/>
-    <meta name="calibre:author_link_map" content="{&quot;赵蕤&quot;: &quot;&quot;}"/>
+    <meta name="calibre:title_sort" content="長短經"/>
+    <meta name="calibre:author_link_map" content="{&quot;趙蕤&quot;: &quot;&quot;}"/>
     <meta name="cover" content="cover"/>
+    <meta name="calibre:series_index" content="1.0"/>
   </metadata>
   <manifest>
     <item id="id" href="Text/part00.html" media-type="application/xhtml+xml"/>
@@ -165,3 +170,4 @@
   <guide>
     </guide>
 </package>
+
