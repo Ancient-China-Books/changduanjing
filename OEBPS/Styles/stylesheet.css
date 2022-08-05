@@ -175,3 +175,7 @@ p:before{
 p:hover .gg-link {
   visibility: visible;
 }
+.hidden {
+  color:transparent;
+  font-size:0px;
+}
