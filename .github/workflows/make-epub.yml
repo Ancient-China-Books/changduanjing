@@ -35,25 +35,25 @@ jobs:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto changduanjing.epub gdrive:/Ancient-China-Books/長短經.epub
+          args: copyto changduanjing.epub gdrive:/Ancient-China-Books/test/長短經.epub
       - name: Sync vst to Google drive
         uses: wei/rclone@v1
         env:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto changduanjing-vst.epub gdrive:/Ancient-China-Books/長短經-豎排.epub
+          args: copyto changduanjing-vst.epub gdrive:/Ancient-China-Books/test/長短經-豎排.epub
       - name: Sync to Freemdict
         uses: wei/rclone@v1
         env:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto changduanjing.epub freemdict:/Ancient-China-Books/長短經.epub
+          args: copyto changduanjing.epub freemdict:/Ancient-China-Books/test/長短經.epub
       - name: Sync vst to Freemdict
         uses: wei/rclone@v1
         env:
          RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
          RCLONE_CONFIG_PASS: ${{ secrets.RCLONE_CONFIG_PASS }}
         with:
-          args: copyto changduanjing-vst.epub freemdict:/Ancient-China-Books/長短經-豎排.epub
+          args: copyto changduanjing-vst.epub freemdict:/Ancient-China-Books/test/長短經-豎排.epub
