@@ -96,6 +96,7 @@
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
+    <item id="fsung-F" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="noto" href="Fonts/NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
