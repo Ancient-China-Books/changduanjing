@@ -12,7 +12,7 @@
     <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
     <dc:subject>國學，古籍，反經，子部</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">43ee1c23-896d-4358-92ac-e9e2705ade80</dc:identifier>
+    <dc:identifier opf:scheme="calibre">d3a380bc-027f-4c09-94ca-90cd1e414d0c</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101125313</dc:identifier>
     <meta content="新编诸子集成续编" name="calibre:series"/>
     <meta content="10.0" name="calibre:rating"/>
@@ -23,7 +23,6 @@
     <meta name="calibre:series_index" content="1.0"/>
   </metadata>
   <manifest>
-    <item id="id" href="Text/part00.html" media-type="application/xhtml+xml"/>
     <item id="id0" href="Text/part01.html" media-type="application/xhtml+xml"/>
     <item id="id1" href="Text/part02.html" media-type="application/xhtml+xml"/>
     <item id="id2" href="Text/part03.html" media-type="application/xhtml+xml"/>
@@ -89,6 +88,7 @@
     <item id="id62" href="Text/part63.html" media-type="application/xhtml+xml"/>
     <item id="id63" href="Text/part64.html" media-type="application/xhtml+xml"/>
     <item id="id64" href="Text/part65.html" media-type="application/xhtml+xml"/>
+    <item id="id" href="Text/part00.html" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
@@ -99,7 +99,6 @@
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
-    <itemref idref="id"/>
     <itemref idref="id0"/>
     <itemref idref="id1"/>
     <itemref idref="id2"/>
@@ -165,6 +164,7 @@
     <itemref idref="id62"/>
     <itemref idref="id63"/>
     <itemref idref="id64"/>
+    <itemref idref="id"/>
   </spine>
   <guide>
     </guide>
