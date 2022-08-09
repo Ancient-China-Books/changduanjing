@@ -12,10 +12,8 @@
     <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
     <dc:subject>國學，古籍，反經，子部</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">9fdc2a84-c97a-40f7-b6b4-6d069f2603e7</dc:identifier>
-    <dc:identifier opf:scheme="AMAZON">B072PZTKX4</dc:identifier>
+    <dc:identifier opf:scheme="calibre">43ee1c23-896d-4358-92ac-e9e2705ade80</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101125313</dc:identifier>
-    <dc:identifier opf:scheme="GOOGLE">K2SJtQEACAAJ</dc:identifier>
     <meta content="新编诸子集成续编" name="calibre:series"/>
     <meta content="10.0" name="calibre:rating"/>
     <meta content="1.9.10" name="Sigil version"/>
@@ -171,4 +169,3 @@
   <guide>
     </guide>
 </package>
-
