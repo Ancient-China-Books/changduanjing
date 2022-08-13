@@ -3,18 +3,20 @@
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>長短經</dc:title>
     <dc:creator opf:role="aut" opf:file-as="趙蕤">趙蕤</dc:creator>
-    <dc:date>2017-08-14T16:00:00+00:00</dc:date>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:identifier id="uxosaznxpA5dlgK27L4AiA5" opf:scheme="uuid">uxosaznxpA5dlgK27L4AiA5</dc:identifier>
-    <dc:publisher>中华书局</dc:publisher>
     <dc:description>&lt;div&gt;
-&lt;p&gt;《长短经》又称《反经》，唐代赵蕤撰，今存9卷64篇。该书汇聚诸子百家学说，撮叙历代更迭史实，论述王霸机权正变长短之术，涉及知人、论士、政体、君德、臣行、图霸、兵谋等，具有极高的学术研究价值和史料参考价值。此次整理，所据底本为南宋初年杭州净戒院刊本，以《读画斋丛书》本为校本，以《四库全书》本为参校本。全书全式标点，有校有注，收入《新编诸子集成续编》。&lt;/p&gt;
-&lt;p&gt;基於維基文庫重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
-    <dc:contributor opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
-    <dc:subject>國學，古籍，反經，子部</dc:subject>
+&lt;p&gt;唐趙蕤撰，九卷。蕤博覽兵書，長於經世，書中皆談王霸經權之要略，辨析事勢。注文頗詳，多引古書，蓋蕤自爲之。漢劉向序戰國策稱“或曰短長”，故以長短名其書。新唐書藝文志三雜家類著錄作長短術。&lt;/p&gt;
+&lt;p&gt;基於「維基文庫」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>古籍</dc:subject>
+    <dc:subject>子部</dc:subject>
+    <dc:subject>反經</dc:subject>
+    <dc:subject>長短經</dc:subject>
+    <dc:subject>諸子百家</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">d3a380bc-027f-4c09-94ca-90cd1e414d0c</dc:identifier>
-    <dc:identifier opf:scheme="ISBN">9787101125313</dc:identifier>
-    <meta content="新编诸子集成续编" name="calibre:series"/>
+    <dc:identifier opf:scheme="calibre">6e6535ae-1468-45c4-9b72-889d039e9496</dc:identifier>
+    <meta content="諸子百家" name="calibre:series"/>
     <meta content="10.0" name="calibre:rating"/>
     <meta content="1.9.10" name="Sigil version"/>
     <meta name="calibre:title_sort" content="長短經"/>
