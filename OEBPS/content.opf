@@ -2,25 +2,25 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uxosaznxpA5dlgK27L4AiA5">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>長短經</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="趙蕤">趙蕤</dc:creator>
+    <dc:creator opf:role="aut" opf:file-as="唐·趙蕤">唐·趙蕤</dc:creator>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:identifier id="uxosaznxpA5dlgK27L4AiA5" opf:scheme="uuid">uxosaznxpA5dlgK27L4AiA5</dc:identifier>
     <dc:description>&lt;div&gt;
 &lt;p&gt;唐趙蕤撰，九卷。蕤博覽兵書，長於經世，書中皆談王霸經權之要略，辨析事勢。注文頗詳，多引古書，蓋蕤自爲之。漢劉向序戰國策稱“或曰短長”，故以長短名其書。新唐書藝文志三雜家類著錄作長短術。&lt;/p&gt;
 &lt;p&gt;基於「維基文庫」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
-    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:subject>古籍</dc:subject>
     <dc:subject>子部</dc:subject>
     <dc:subject>反經</dc:subject>
     <dc:subject>長短經</dc:subject>
     <dc:subject>諸子百家</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">6e6535ae-1468-45c4-9b72-889d039e9496</dc:identifier>
+    <dc:identifier opf:scheme="calibre">cbd32669-cb8f-45a8-8b0c-ad1445cf5942</dc:identifier>
     <meta content="諸子百家" name="calibre:series"/>
     <meta content="10.0" name="calibre:rating"/>
     <meta content="1.9.10" name="Sigil version"/>
     <meta name="calibre:title_sort" content="長短經"/>
-    <meta name="calibre:author_link_map" content="{&quot;趙蕤&quot;: &quot;&quot;}"/>
+    <meta name="calibre:author_link_map" content="{&quot;唐·趙蕤&quot;: &quot;&quot;}"/>
     <meta name="cover" content="cover"/>
     <meta name="calibre:series_index" content="1.0"/>
   </metadata>
@@ -95,10 +95,10 @@
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-F" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="notos-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
